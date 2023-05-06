@@ -22,8 +22,6 @@ about: Create a new issue using this template
 * [document what you know]  
 
 ### Acceptance Criteria     
-gherkin
-Copy code
-Given [some context]
-When [certain action is taken]
-Then [the outcome of action is observed]
+* Given [some context]
+* When [certain action is taken]
+* Then [the outcome of action is observed]
