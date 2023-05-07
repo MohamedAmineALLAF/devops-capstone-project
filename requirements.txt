@@ -5,6 +5,7 @@ Werkzeug==2.2.2
 Flask==2.2.2
 Flask-SQLAlchemy==3.0.2
 Flask-Talisman==0.8.0
+Flask-Cors==3.0.10
 psycopg2-binary==2.9.5
 python-dotenv==0.21.1
 
