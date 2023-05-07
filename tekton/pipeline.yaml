@@ -36,7 +36,7 @@ spec:
         value: $(params.branch)
       runAfter:
         - init
-    
+
     - name: lint
       workspaces:
         - name: source
